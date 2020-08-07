@@ -21,3 +21,4 @@ To provide business insights to Morgan Stanley about the themes people are talki
 
 ## Objective and StoryLine 
 
+![picture] (https://github.com/adityabaser/Morgan-Stanley-Sentiment-Analysis/blob/master/screenshots/Objective.PNG)
